@@ -1,0 +1,7 @@
+﻿  Atestat.cpp
+  cApp.cpp
+  cMain.cpp
+  Generator.cpp
+  Generating Code...
+LINK : warning LNK4067: ambiguous entry point; selected 'WinMainCRTStartup'
+  Atestat.vcxproj -> C:\Users\Sandi\Desktop\Atestat\Atestat\Atestat\Test\Atestat.exe
